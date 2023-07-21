@@ -1,3 +1,3 @@
 # Requestor
 
-Receives a request, exposes a template
+Receives a request, annotates the time, shows it.
